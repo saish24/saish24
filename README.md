@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Saish Shenoy 👋
+<!--
+![My github stats](https://github-readme-stats.vercel.app/api?username=saish24&show_icons=true)
+-->
+🌱 I’m currently exploring C++ & Java 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saish24)
 <!--
 **saish24/saish24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
